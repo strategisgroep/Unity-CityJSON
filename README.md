@@ -14,7 +14,7 @@ To use this part of the code you need to do the following:
     1. findable under assets>Scripts>import
     2. add the file location of a CityJSON in the inspector
     3. Choose a Material, I used the DBshader
-    4. Decide If you want to centre the coordinates (close to zero), with the Centred value and/or scale by setting the goodcoord value to true, to set the object in 3DCityplanner values.
+    4. Decide If you want to centre the coordinates (close to zero), with the Centred value and/or scale by setting the goodcoord value.
 3. run the program and then hit the spacebar and enjoy the CityJSON
 4. If you want to reload the CityJSON you can hit the Spacebar again.
 
